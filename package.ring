@@ -30,6 +30,11 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
+		"bin/ringrepl.exe",
+		"tools/ringrepl/build.bat",
+		"tools/ringrepl/build.sh",
+		"tools/ringrepl/ringrepl.ring",
+		"tools/ringrepl/ringreplw.ring",
 		"tools/ringrepl/README.md",
 		"tools/ringrepl/repl.ring",
 		"tools/ringrepl/replw.ring",
