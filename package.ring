@@ -36,8 +36,6 @@ aPackageInfo = [
 		"tools/ringrepl/ringrepl.ring",
 		"tools/ringrepl/ringreplw.ring",
 		"tools/ringrepl/README.md",
-		"tools/ringrepl/repl.ring",
-		"tools/ringrepl/replw.ring",
 		"tools/ringrepl/replwscript.ring",
 		"tools/ringrepl/source.png"
 	],
