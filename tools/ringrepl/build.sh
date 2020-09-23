@@ -1,4 +1,4 @@
-ring ring2exe.ring ringrepl.ring 
+ring ../ring2exe/ring2exe.ring ringrepl.ring 
 
 cp ringrepl $PWD/../../bin/ringrepl 
 
